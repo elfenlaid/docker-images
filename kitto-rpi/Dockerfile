@@ -1,4 +1,4 @@
-FROM resin/raspberry-pi2-node
+FROM resin/raspberry-pi3-node
 
 RUN apt-get update
 RUN apt-get install apt-transport-https
